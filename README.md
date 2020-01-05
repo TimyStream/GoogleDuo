@@ -3,7 +3,7 @@
 
 
 ## Google Duo
-### Google Duo is a Google Server for Audo and Video Calls over the Network with End to End Encryption. 
+### Google Duo is a Google Service for Audio and Video Calls over the Network with End to End Encryption. 
 
 #### Available here: https://duo.google.com/
 
